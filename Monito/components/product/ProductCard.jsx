@@ -20,8 +20,6 @@ const ProductCard = ({item}) =>{
                 </View>
                 <View style={styles.details}>
                     <Text style={styles.title} numberOfLines={1}>{item.title}</Text>
-                    <Text style={styles.gen}>{item.gender}</Text>
-                    <Text style={styles.age}>{item.age}</Text>
                     <Text style={styles.price}>{item.price}</Text>
 
                 </View> 

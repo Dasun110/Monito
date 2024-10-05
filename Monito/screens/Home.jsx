@@ -18,11 +18,11 @@ const Home = () => {
                     <View style={styles.head}>
                         <View style={styles.Row}>
                             <Ionicons style={styles.Menu} name="menu-outline" />
-                            <Text style={styles.title}>Monito</Text>
+                            <Text style={styles.title}>BAUHIIA</Text>
                             <Ionicons style={styles.Menu} name="person-circle-outline" />
                         </View>
                         <View>
-                            <Text style={styles.headText}>Pat for Best</Text>
+                            <Text style={styles.headText}>Explore The Fashion Today</Text>
                         </View>
                     </View>
                     <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
@@ -40,7 +40,7 @@ const Home = () => {
                         <View style={styles.container} >
                             <View style={styles.header} >
                                 <Text  style={styles.headerTitle}>
-                                Popular Pets
+                                Popular Fashion
                                 </Text>
                                 <TouchableOpacity style={styles.headerTitle}>
                                         <Text>Show all</Text>

@@ -99,12 +99,12 @@ const LoginPage = ({ navigation }) => {
                 <SafeAreaView style={[{ marginHorizontal: 20, height:'100%' }]}>
                     <View style={styles.container3}>
                         <View style={styles.column}>
-                            <Text style={styles.title} >Monito</Text>
-                            <Text style={styles.title2} >Pat for Best</Text>
+                            <Text style={styles.title} >BAUHIIA</Text>
+                            <Text style={styles.title2} >Explore The Fashion Today</Text>
                         </View>
                     </View>
                     <View style={styles.heading}>
-                            <Text style={[styles.title, { fontSize: 24 },{ textAlign:"flex-start"}]}>Log into Monito!</Text>
+                            <Text style={[styles.title, { fontSize: 24 },{ textAlign:"flex-start"}]}>Log into BAUHIIA!</Text>
                             <Text style={[styles.title2, { fontSize: 14 },{ textAlign:"flex-start"}]}>Sign in here to continue!</Text>
 
                     </View>
